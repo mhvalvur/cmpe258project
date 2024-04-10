@@ -6,6 +6,8 @@
 - Alan Park
 - Pallavi Suma
 
+### To access dataset, please visit the following link and download: https://www.kaggle.com/datasets/abhikjha/utk-face-cropped
+
 # Project Milestone Report
 
 ## List of Achievements So Far (Please see .ipynb file for code)
