@@ -8,7 +8,7 @@
 
 # Project Milestone Report
 
-## List of Achievements So Far (Please see Python file for code)
+## List of Achievements So Far (Please see .ipynb file for code)
 
 Thus far we have been able to successfully create a deep learning model that can predict both the age and gender of a person based on an image. While we do have a working model that does in essence what we want to achieve, there is still much room for improvement moving forward. After training our model using the 24000 images over 10 epochs, we found our results to be a good starting point that show promise. With regards to age prediction, the mean absolute error (MAE) on the test dataset was found to be 6.33. With regards to gender prediction, the MAE was 0.41. These values demonstrate that our model is properly predicting the age and gender of a person based on the image, which is a great achievement. However, we believe that these values can be drastically improved upon. For the majority of our modules, we would classify them still in the development stage.
 
